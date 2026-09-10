@@ -3,4 +3,4 @@ Criterios
     2.- Por nivel de revision (Arbitrado/ No Arbitrado)
     3.- Por formato (revista, Libro, Tesis, Ponencia)
     4.- Por vigencia (actualidad de la info)
-    
+    5.- Por autoridad

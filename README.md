@@ -10,3 +10,6 @@ Tecnologias Utilizadas
 Prepara el entorno haciendo ...
 
 Dependencias ...
+
+Proximas mejoras
+mejorar rendimiento
